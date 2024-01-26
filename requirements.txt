@@ -1,5 +1,5 @@
 asyncio
-google-api-python-client
+google-api-python -client
 google-auth-httplib2
 google-auth-oauthlib
 GPUtil
@@ -10,7 +10,8 @@ opencv-python
 Pillow
 psutil
 pytz
-pyrogram==2.0.73
+pip
+Pyrogram==2.0.80
 requests
 tgcrypto
 uvloop
