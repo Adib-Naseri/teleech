@@ -1,5 +1,5 @@
 
-
+click edit to view right
 
 Bot Commands To Set:
 
