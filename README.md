@@ -1,3 +1,8 @@
+
+
+tut: go to gcolab and open the gcolab file n run it (its in rar archive)
+
+
 click edit (Penicl) to view right
 
 Bot Commands To Set:
