@@ -1,5 +1,4 @@
-
-click edit to view right
+click edit (Penicl) to view right
 
 Bot Commands To Set:
 
