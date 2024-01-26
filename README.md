@@ -34,7 +34,6 @@ Use The Copied Link As Download Link
 ------------------------------------------------
 
 
-copyright: https://github.com/XronTrix10
 
 
 For Multiple Links (Bulk):
