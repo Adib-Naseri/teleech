@@ -11,7 +11,7 @@ Pillow
 psutil
 pytz
 pip
-pyroblack
+Pyrogram==2.0.80
 requests
 tgcrypto
 uvloop
