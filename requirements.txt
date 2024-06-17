@@ -11,7 +11,7 @@ Pillow
 psutil
 pytz
 pip
-telethon
+Pyrogram==2.0.80
 requests
 tgcrypto
 uvloop
